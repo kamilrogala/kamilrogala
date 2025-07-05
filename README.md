@@ -1,6 +1,6 @@
 # Hi, I'm Kamil
 
-**Frontend/Software Engineer | Legacy slayer | Refactor enthusiast | Tech advocate**
+**Frontend/Software Engineer `` Legacy slayer `` Refactor enthusiast `` Tech advocate**
 
 Frontend Developer with over a decade of experience, specializing in large-scale and wide-ranging projects. I work on solutions that reach millions of users on a daily basis, but I am equally eager to develop internal tools, automations, and improvements for editorial and development teams.
 
@@ -16,8 +16,30 @@ Because good work makes sense: technological, business, and human.
 
 These are some of the languages, frameworks, and tools that I use or have worked on in the past:
 
-HTML5|CSS3|JavaScript|jQuery|NodeJS|Groovy|SASS|React|TypeScript|Jest|Puppeteer|Playwright|Vite|Gulp|Grunt|Webpack|Jenkins|Docker|Git|Jira|Confluence|Joomla|JSP
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+`HTML5`
+`CSS3`
+`JavaScript`
+`jQuery`
+`NodeJS`
+`Groovy`
+`SASS`
+`React`
+`TypeScript`
+`Jest`
+`Puppeteer`
+`Playwright`
+`Vite`
+`Gulp`
+`Grunt`
+`Webpack`
+`Jenkins`
+`Docker`
+`Git`
+`Jira`
+`Confluence`
+`Joomla`
+`JSP`
+
 
 ## Contact
 
