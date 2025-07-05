@@ -10,15 +10,14 @@ I value meaningful technology - one that really helps people, businesses, and te
 
 Because good work makes sense: technological, business, and human.
 
-|--|--|
+---
 
 ## Skills
 
 These are some of the languages, frameworks, and tools that I use or have worked on in the past:
 
-HTML5|CSS3|JavaScript|jQuery|NodeJS|Groovt|SASS|React|TypeScript|Jest|Puppeteer|Playwright|Vite|Gulp|Grunt|Webpack|Jenkins|Docker|Git|Jira|Confluence|Joomla|JSP
-
-|--|--|
+HTML5|CSS3|JavaScript|jQuery|NodeJS|Groovy|SASS|React|TypeScript|Jest|Puppeteer|Playwright|Vite|Gulp|Grunt|Webpack|Jenkins|Docker|Git|Jira|Confluence|Joomla|JSP
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 
 ## Contact
 
