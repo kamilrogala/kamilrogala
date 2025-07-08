@@ -1,6 +1,6 @@
 # Hi, I'm Kamil
 
-**Frontend/Software Engineer `` Legacy slayer `` Refactor enthusiast `` Tech advocate**
+**Frontend/Software Engineer | Legacy slayer | Refactor enthusiast | Tech advocate**
 
 Frontend Developer with over a decade of experience, specializing in large-scale and wide-ranging projects. I work on solutions that reach millions of users on a daily basis, but I am equally eager to develop internal tools, automations, and improvements for editorial and development teams.
 
